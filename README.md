@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm Tomás from Argentina<br><br>- 🔭 I’m working as Networking & Infrastructure Intern<br>- 📚 I'm currently learning Terraform, SQL and Java<br>- ⚡ In my free time I love reading and playing videogames!</p>
+<p align="left">I'm Tomás from Argentina<br><br>- 🔭 I’m working as a Networking & Infrastructure Intern at ExxonMobil<br>- 📚 I'm currently learning Terraform, SQL and Java<br>- ⚡ In my free time I love reading and playing videogames!</p>
 
 ###
 
